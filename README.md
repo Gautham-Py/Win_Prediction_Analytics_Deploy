@@ -12,4 +12,7 @@ Prediction of the Outcome of a Corporate Bid.
 
 >Test your Bid propable output here
 
-winprediction.herokuapp.com
+[Win Prediction][1]
+
+
+[1]:https://winprediction.herokuapp.com/   "Win Prediction"
