@@ -1,5 +1,5 @@
 # Win_Prediction_Analytics_Deploy
-Deployment of Capstone Project output through Streamlit app  on Heroku
+Deployment of Capstone Project output through Streamlit app  on Heroku Server
 
 > Function
 
