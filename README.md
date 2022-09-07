@@ -3,7 +3,7 @@ Deployment of Capstone Project output through Streamlit app  on Heroku Server
 
 > Function
 
-Prediction of the Outcome of a Corporate Bid..
+Prediction of the Outcome of a Corporate Bid.
 
 > Aim 
 
