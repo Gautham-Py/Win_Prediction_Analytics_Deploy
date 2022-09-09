@@ -10,7 +10,7 @@ Prediction of the Outcome of a Corporate Bid.
  An advance prediction of Win/Loss, will help the engaging team to pipeline the opportunities, towards maximizing the benefits for a winning Team and
  deploying the best of their resources to it.
 
->Test your Bid's winning probability output here
+>Test your Bid's winning probability  here
 
 [Win Prediction][1]
 
