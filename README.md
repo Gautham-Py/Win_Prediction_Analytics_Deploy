@@ -1,7 +1,7 @@
 # Win_Prediction_Analytics_Deploy
 Deployment of Capstone Project output through Streamlit app  on Heroku Server
 
-> Function:
+> Function
 
 Prediction of the Outcome of a Corporate Bid.
 
